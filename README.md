@@ -4,6 +4,8 @@
 [autocomplete-plus](https://github.com/atom-community/autocomplete-plus) before
 installing this package.
 
+![html-completions](https://cloud.githubusercontent.com/assets/527875/9748819/732fbb32-563c-11e5-93a3-9f984351cadb.gif)
+
 This is powered by the list of HTML tags [here](https://raw.githubusercontent.com/chrisgriffith/OnsenUI-Brackets-Extension/master/HtmlTags.json)
 and HTML attributes [here](https://raw.githubusercontent.com/chrisgriffith/OnsenUI-Brackets-Extension/master/HtmlAttributes.json)
 
