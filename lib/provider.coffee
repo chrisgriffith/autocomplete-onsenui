@@ -177,6 +177,7 @@ module.exports =
 
   getTagDocsURL: (tag) ->
     "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/#{tag}"
+    "https://onsen.io/v2/api/js/{tag}.html"
 
   getLocalAttributeDocsURL: (attribute, tag) ->
     "#{@getTagDocsURL(tag)}#attr-#{attribute}"
